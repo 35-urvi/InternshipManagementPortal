@@ -16,9 +16,6 @@ A full-stack web application that connects students, companies, and administrato
 - Search & filter internships
 - Application tracking
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## ⚡ How to Run
 1. Run backend (.NET)
 2. Run frontend (Angular)
