@@ -1,0 +1,11 @@
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\bin\Debug\net8.0\UniversityInternshipPortal.Domain.deps.json
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\bin\Debug\net8.0\UniversityInternshipPortal.Domain.dll
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\bin\Debug\net8.0\UniversityInternshipPortal.Domain.pdb
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.AssemblyInfoInputs.cache
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.AssemblyInfo.cs
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.dll
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\refint\UniversityInternshipPortal.Domain.dll
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\UniversityInternshipPortal.Domain.pdb
+C:\Users\urvi2\OneDrive\.NET\UniversityInternshipPortal\UniversityInternshipPortal.Domain\obj\Debug\net8.0\ref\UniversityInternshipPortal.Domain.dll

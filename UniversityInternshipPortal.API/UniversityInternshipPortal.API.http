@@ -1,0 +1,6 @@
+@UniversityInternshipPortal.API_HostAddress = http://localhost:5230
+
+GET {{UniversityInternshipPortal.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

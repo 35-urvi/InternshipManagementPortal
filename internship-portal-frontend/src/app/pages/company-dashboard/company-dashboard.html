@@ -1,0 +1,117 @@
+<div class="container mt-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+
+  <h2>My Internships</h2>
+
+  <div>
+
+    <button class="btn btn-primary me-2"
+            (click)="goToCreateInternship()">
+      + Create Internship
+    </button>
+
+    <button class="btn btn-danger"
+            (click)="logout()">
+      Logout
+    </button>
+
+  </div>
+
+</div>
+
+<div *ngFor="let internship of internships" class="card p-3 mb-3">
+
+<h4>{{ internship.title }}</h4>
+
+<div class="row">
+
+<div class="col-md-4">
+<button (click)="viewApplications(internship.id)">
+View Applicants
+</button>
+</div>
+
+<div class="col-md-4">
+<button class="btn btn-warning btn-sm me-2"
+        (click)="startEdit(internship)">
+  Edit
+</button>
+</div>
+
+<div class="col-md-4">
+<button class="btn btn-danger btn-sm"
+        (click)="deleteInternship(internship.id)">
+  Delete
+</button>
+</div>
+
+</div>
+
+</div>
+
+<div *ngIf="editingInternship" class="card p-3 mt-4">
+
+  <h4>Edit Internship</h4>
+
+  <input class="form-control mb-2"
+         [(ngModel)]="editData.title"
+         placeholder="Title">
+
+  <textarea class="form-control mb-2"
+            [(ngModel)]="editData.description"
+            placeholder="Description"></textarea>
+
+  <input class="form-control mb-2"
+         [(ngModel)]="editData.requiredSkills"
+         placeholder="Required Skills">
+
+  <input class="form-control mb-2"
+         type="number"
+         [(ngModel)]="editData.stipend"
+         placeholder="Stipend">
+
+  <button class="btn btn-success"
+          (click)="updateInternship()">
+    Update
+  </button>
+
+</div>
+
+
+
+<h2 class="mt-5">Applicants</h2>
+
+<table class="table">
+
+<tr>
+<th>Name</th>
+<th>Department</th>
+<th>CGPA</th>
+<th>Status</th>
+<th>Action</th>
+</tr>
+
+<tr *ngFor="let app of applications">
+
+<td>{{ app.studentName }}</td>
+<td>{{ app.department }}</td>
+<td>{{ app.cgpa }}</td>
+<td>{{ app.status }}</td>
+
+<td>
+
+<button (click)="accept(app.applicationId)">
+Accept
+</button>
+
+<button (click)="reject(app.applicationId)">
+Reject
+</button>
+</td>
+
+</tr>
+
+</table>
+
+</div>

@@ -1,0 +1,48 @@
+<div class="container mt-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+
+  <h2>Student Dashboard</h2>
+
+  <div>
+
+    <button class="btn btn-primary me-2"
+            (click)="viewInternships()">
+      View All Internships
+    </button>
+
+    <button class="btn btn-danger"
+            (click)="logout()">
+      Logout
+    </button>
+
+  </div>
+
+  </div>
+
+<div *ngFor="let app of applications" class="card p-3 mb-3">
+
+<h4>{{ app.internship.title }}</h4>
+
+<p>Status: <b>{{ app.status }}</b></p>
+
+</div>
+
+<!-- </div> -->
+
+
+<h2 class="mt-5">Recommended Internships</h2>
+
+<div *ngFor="let internship of recommendedInternships" class="card p-3 mb-3">
+
+<h4>{{ internship.title }}</h4>
+
+<p>{{ internship.description }}</p>
+
+<p><b>Skills:</b> {{ internship.requiredSkills }}</p>
+
+<p><b>Stipend:</b> ₹{{ internship.stipend }}</p>
+
+</div>
+
+</div>

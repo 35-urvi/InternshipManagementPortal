@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\repositories\\internshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\repositories\\internshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.application\\dtos\\applyinternshiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|solutionrelative:universityinternshipportal.application\\dtos\\applyinternshiprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\internshipapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\internshipapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\auth\\registercompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\auth\\registercompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\auth\\registerstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\auth\\registerstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\entities\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.application\\universityinternshipportal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|solutionrelative:universityinternshipportal.application\\universityinternshipportal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\universityinternshipportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\universityinternshipportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\universityinternshipportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\universityinternshipportal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.api\\universityinternshipportal.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FA2D6CFE-A36D-4EF9-9430-1218705A5A86}|UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj|solutionrelative:universityinternshipportal.api\\universityinternshipportal.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\universityinternshipportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\universityinternshipportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF15DDC-9F18-4C08-91BC-9BDA432214B9}|UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj|solutionrelative:universityinternshipportal.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF542D65-25B1-4815-AE7B-E4F18E80566E}|UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj|solutionrelative:universityinternshipportal.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\migrations\\20260311190203_addinternshipapplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\migrations\\20260311190203_addinternshipapplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|c:\\users\\urvi2\\onedrive\\.net\\universityinternshipportal\\universityinternshipportal.infrastructure\\migrations\\20260311180928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A779245-BB4E-4BA1-801F-CDAB502D0E1C}|UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj|solutionrelative:universityinternshipportal.infrastructure\\migrations\\20260311180928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternshipController.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\InternshipController.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Controllers\\InternshipController.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\InternshipController.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Controllers\\InternshipController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:20:42.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:49:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:11:36.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:20:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:21:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\InternshipRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Repositories\\InternshipRepository.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\InternshipRepository.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Repositories\\InternshipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:50:58.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:53:03.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:14:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:00:22.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplyInternshipRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\DTOs\\ApplyInternshipRequest.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Application\\DTOs\\ApplyInternshipRequest.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\DTOs\\ApplyInternshipRequest.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Application\\DTOs\\ApplyInternshipRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:04:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Internship.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Internship.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\Internship.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Internship.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\Internship.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:25:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\Company.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:23:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:19:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InternshipApplication.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\InternshipApplication.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\InternshipApplication.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\InternshipApplication.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\InternshipApplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:27:44.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:17:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Program.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Program.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:04:32.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Auth\\JwtService.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\JwtService.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Auth\\JwtService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:09:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\appsettings.json",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T18:03:31.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\RegisterCompanyRequest.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Auth\\RegisterCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\RegisterCompanyRequest.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Auth\\RegisterCompanyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:41:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterStudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\RegisterStudentRequest.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Auth\\RegisterStudentRequest.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\RegisterStudentRequest.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Auth\\RegisterStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:08:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260311190203_AddInternshipApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Migrations\\20260311190203_AddInternshipApplicationTable.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Migrations\\20260311190203_AddInternshipApplicationTable.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Migrations\\20260311190203_AddInternshipApplicationTable.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Migrations\\20260311190203_AddInternshipApplicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:02:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260311180928_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Migrations\\20260311180928_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Migrations\\20260311180928_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Migrations\\20260311180928_InitialCreate.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Migrations\\20260311180928_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:09:28.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:08:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UniversityInternshipPortal.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj",
+              "RelativeToolTip": "UniversityInternshipPortal.Application\\UniversityInternshipPortal.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T16:42:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Faculty.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Entities\\Faculty.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Entities\\Faculty.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Entities\\Faculty.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:24:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UniversityInternshipPortal.API.csproj",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T18:15:26.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UniversityInternshipPortal.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\UniversityInternshipPortal.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T17:36:41.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UniversityInternshipPortal.API",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "RelativeToolTip": "UniversityInternshipPortal.API\\UniversityInternshipPortal.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T18:17:19.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Enums\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Enums\\ApplicationStatus.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Enums\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:29:14.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UniversityInternshipPortal.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\UniversityInternshipPortal.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T17:05:04.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Application\\Class1.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:56:13.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:57:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "UniversityInternshipPortal.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\urvi2\\OneDrive\\.NET\\UniversityInternshipPortal\\UniversityInternshipPortal.Domain\\Class1.cs",
+              "RelativeToolTip": "UniversityInternshipPortal.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:54:46.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

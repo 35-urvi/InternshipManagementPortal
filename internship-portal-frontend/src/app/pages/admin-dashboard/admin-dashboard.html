@@ -1,0 +1,103 @@
+<div class="container mt-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+
+  <h2>Admin Dashboard</h2>
+
+  <div>
+
+    <button class="btn btn-primary me-2"
+            (click)="viewInternships()">
+      View All Internships
+    </button>
+
+    <button class="btn btn-danger"
+            (click)="logout()">
+      Logout
+    </button>
+
+  </div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-3">
+<div class="card p-3 text-center shadow">
+<h4>Total Internships</h4>
+<h2>{{ stats?.totalInternships }}</h2>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="card p-3 text-center shadow">
+<h4>Total Applications</h4>
+<h2>{{ stats?.totalApplications }}</h2>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="card p-3 text-center shadow">
+<h4>Accepted</h4>
+<h2>{{ stats?.acceptedApplications }}</h2>
+</div>
+</div>
+
+<div class="col-md-3">
+<div class="card p-3 text-center shadow">
+<h4>Acceptance Rate</h4>
+<h2>{{ stats?.acceptanceRate | number:'1.0-0' }}%</h2>
+</div>
+</div>
+
+</div>
+
+
+<div class="row mt-5">
+
+<div class="col-md-6">
+
+<h4>Internship Statistics</h4>
+
+<canvas
+baseChart
+[data]="barChartData"
+[type]="barChartType">
+</canvas>
+
+</div>
+
+<div class="col-md-6">
+
+<h4>Application Status</h4>
+<div style="height:270px;">
+<canvas
+baseChart
+[data]="pieChartData"
+[type]="pieChartType">
+</canvas>
+</div>
+</div>
+
+<div class="row mt-5">
+
+<div class="col-md-12">
+
+<h4>Applications by Department</h4>
+
+<canvas
+baseChart
+[data]="departmentChartData"
+[type]="departmentChartType">
+</canvas>
+
+</div>
+
+</div>
+
+
+</div>
+
+
+
+</div>

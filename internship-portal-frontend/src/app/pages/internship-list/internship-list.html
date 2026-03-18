@@ -1,0 +1,71 @@
+<div class="container mt-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+
+  <h2>Available Internships</h2>
+
+  <button class="btn btn-secondary"
+          (click)="goBack()">
+    ← Back
+  </button>
+
+</div>
+
+<div class="card p-3 mb-4 shadow">
+
+<h4>Search Internships</h4>
+
+<div class="row">
+
+<div class="col-md-3">
+<input class="form-control" placeholder="Keyword"
+[(ngModel)]="keyword">
+</div>
+
+<div class="col-md-3">
+<input class="form-control" placeholder="Skill"
+[(ngModel)]="skill">
+</div>
+
+<div class="col-md-4">
+<input class="form-control" type="number"
+placeholder="Min Stipend"
+[(ngModel)]="minStipend">
+</div>
+
+<div class="col-md-1">
+<button class="btn btn-primary" (click)="search()">Search</button>
+</div>
+
+<div class="col-md-1">
+<button class="btn btn-secondary ms-2" (click)="ngOnInit()">
+Reset
+</button>
+</div>
+
+</div>
+
+</div>
+
+<p>Total internships: {{ internships.length }}</p>
+
+<div *ngFor="let internship of internships" class="card p-3 mb-3">
+
+<!-- <p><strong>Company:</strong> {{ internship.company?.companyName }}</p> -->
+ <p><strong>Company:</strong> {{ internship.companyName }}</p>
+
+<h4>{{ internship.title }}</h4>
+
+<p>{{ internship.description }}</p>
+
+<p><b>Skills:</b> {{ internship.requiredSkills }}</p>
+
+<p><b>Stipend:</b> ₹{{ internship.stipend }}</p>
+
+<button (click)="apply(internship.id)" class="btn btn-primary">
+Apply
+</button>
+
+</div>
+
+</div>
